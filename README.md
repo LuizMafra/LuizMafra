@@ -1,6 +1,6 @@
 ## Opaaaa, eu sou o Luiz, conhecido mais como Mafra 😄
 
-[![Meus stats](https://github-readme-stats.vercel.app/api?username=LuizMafra)](https://github.com/anuraghazra/github-readme-stats)
+![Stats do mafra](https://github-readme-stats.vercel.app/api?username=LuizMafra&count_private=true&show_icons=true&theme=dracula))
 
 
 
