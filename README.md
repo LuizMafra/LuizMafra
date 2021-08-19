@@ -1,6 +1,10 @@
 ## Opaaaa, eu sou o Luiz, conhecido mais como Mafra 😄
  <div>
-  <a href="https://beacons.ai/LuizMafra">
+  <a href="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+">
+   <[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizMafra)]
+   (https://github.com/LuizMafra/github-readme-stats)
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
 </div>
